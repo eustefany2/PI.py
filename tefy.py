@@ -1,0 +1,3 @@
+PI = 3.14159
+TAXA_DE_CAMBIO = 5.50
+NOME_DO_APLICATIVO = "Meu Programa" 
